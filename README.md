@@ -37,6 +37,7 @@ Streamlined layout showing:
 2. Includes visuals, titles, and prices for quick revisits.
    
 **6. Your Account Page**
+
 User dashboard with a grid-style layout.
 
 Allows users to:
